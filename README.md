@@ -44,12 +44,26 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
-<table style="border: 2px solid #30363d; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<tr>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
-
-**🎨 Frontend**
-<br><br>
+<table style="border: 2px solid #30363d; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); width: 100%;">
+<tr style="height: 40px;">
+<td align="center" width="20%" style="padding: 10px; border-right: 1px solid #30363d; vertical-align: top;">
+<strong>🎨 Frontend</strong>
+</td>
+<td align="center" width="20%" style="padding: 10px; border-right: 1px solid #30363d; vertical-align: top;">
+<strong>⚙️ Backend</strong>
+</td>
+<td align="center" width="20%" style="padding: 10px; border-right: 1px solid #30363d; vertical-align: top;">
+<strong>🗄️ Database</strong>
+</td>
+<td align="center" width="20%" style="padding: 10px; border-right: 1px solid #30363d; vertical-align: top;">
+<strong>🤖 AI & Automation</strong>
+</td>
+<td align="center" width="20%" style="padding: 10px; vertical-align: top;">
+<strong>☁️ Cloud & DevOps</strong>
+</td>
+</tr>
+<tr style="height: 160px;">
+<td align="center" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: bottom;">
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <br>
@@ -60,45 +74,29 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
-
-**⚙️ Backend**
-<br><br>
+<td align="center" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: bottom;">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
-
-**🗄️ Database**
-<br><br>
+<td align="center" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: bottom;">
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
-
-**🤖 AI & Automation**
-<br><br>
+<td align="center" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: bottom;">
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 <br>
 ![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=flat-square&logo=workflow&logoColor=white)
 ![AI_Agents](https://img.shields.io/badge/AI_Agents-9B59B6?style=flat-square&logo=robot&logoColor=white)
-
 </td>
-<td align="center" width="20%" style="padding: 15px; vertical-align: top; height: 200px;">
-
-**☁️ Cloud & DevOps**
-<br><br>
+<td align="center" style="padding: 15px; vertical-align: bottom;">
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 <br>
@@ -110,7 +108,6 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <br>
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-
 </td>
 </tr>
 </table>
