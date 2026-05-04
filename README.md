@@ -201,7 +201,7 @@ A 32-bit pixel 2D platformer game inspired by classic games like Mario.
 
 <div align="center">
 
-### � Contribution Streak
+### 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://github.com/evacuado)
 
