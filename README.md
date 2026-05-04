@@ -58,6 +58,10 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ### AI & Automation
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=for-the-badge&logo=workflow&logoColor=white)
+![Agent Integration](https://img.shields.io/badge/Agent_Integration-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
+![Google Cloud Console](https://img.shields.io/badge/Google_Cloud_Console-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ### Cloud & Tools
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -74,25 +78,25 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://github.com/evacuado)
 
-### 📈 Activity Graph
+### Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)](https://github.com/evacuado)
 
-### 📊 Stats Overview
+### Stats Overview
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7)](https://github.com/evacuado)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)](https://github.com/evacuado)
 
-### 🏆 Profile Trophies
+### Profile Trophies
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evacuado&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/evacuado)
 
-### 📊 Quick Stats
+### Quick Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github)
@@ -114,11 +118,11 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-clark--evacuado.netlify.app-00C7B7?style=for-the-badge)](https://clark-evacuado.netlify.app/)
-[![Email](https://img.shields.io/badge/📧_Email-cevacuado@gmail.com-D14836?style=for-the-badge)](mailto:cevacuado@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Clark_Gil_Evacuado-0077B5?style=for-the-badge)](https://www.linkedin.com/in/clark-gil-alicaya-evacuado-796a41345/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-@EVACUADO-181717?style=for-the-badge)](https://github.com/EVACUADO)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+63_993_198_6424-25D366?style=for-the-badge)](https://wa.me/639931986424)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clark--evacuado.netlify.app-00C7B7?style=for-the-badge)](https://clark-evacuado.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-cevacuado@gmail.com-D14836?style=for-the-badge)](mailto:cevacuado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clark_Gil_Evacuado-0077B5?style=for-the-badge)](https://www.linkedin.com/in/clark-gil-alicaya-evacuado-796a41345/)
+[![GitHub](https://img.shields.io/badge/GitHub-@EVACUADO-181717?style=for-the-badge)](https://github.com/EVACUADO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+63_993_198_6424-25D366?style=for-the-badge)](https://wa.me/639931986424)
 
 </div>
 
