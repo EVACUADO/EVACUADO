@@ -12,9 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@EVACUADO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EVACUADO)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+63_993_198_6424-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639931986424)
 
-![Profile Views](https://komarev.com/ghpvc/?username=evacuado&label=Profile%20Views&color=00C7B7&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/evacuado?label=Followers&style=flat-square&color=00C7B7)
-
 </div>
 
 ---
