@@ -200,22 +200,25 @@ A 32-bit pixel 2D platformer game inspired by classic games like Mario.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/evacuado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
+  <a href="https://github.com/evacuado">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8&count_private=true" alt="Top Languages" />
+  <a href="https://github.com/evacuado">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evacuado&theme=tokyonight" alt="GitHub Contribution Graph"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" />
-</p>
-
-> **Note:** To display private repository stats, you need to deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) with your personal access token. The public API only shows public repositories for privacy reasons.
+> **Note:** GitHub stats show public repositories only. Private repository statistics require a personal deployment with authentication.
 
 ---
 
@@ -271,20 +274,12 @@ Completed Senior High School under the STEM strand with focus on mathematics, sc
 - 🎓 **Learning Opportunities** - Internships, mentorship programs
 - 💬 **Consulting** - Technical advice, architecture design
 
----
-
 <div align="center">
-
-### 📄 [Download My Resume](https://qoymyxgyyvimnvwfhhpu.supabase.co/storage/v1/object/public/resume/Clark-Gil-Evacuado-Resume.pdf)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 
 **Designed & Built by Clark Gil Evacuado** | © 2026
 
 *"Crafting digital experiences that make a difference"*
-
-⭐️ From [EVACUADO](https://github.com/evacuado) with ❤️
 
 </div>
