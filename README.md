@@ -78,7 +78,7 @@ Right now, I'm balancing my journey as a **working student** at **Phinma St. Jud
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
@@ -199,25 +199,23 @@ A 32-bit pixel 2D platformer game inspired by classic games like Mario.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180em" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8&count_private=true" alt="Top Languages" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/api/?username=evacuado&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" width="100%" />
-
-</div>
+> **Note:** To display private repository stats, you need to deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) with your personal access token. The public API only shows public repositories for privacy reasons.
 
 ---
 
