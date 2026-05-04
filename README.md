@@ -2,7 +2,7 @@
   
 # Hi 👋, I'm Clark Gil Evacuado
 
-### Full-Stack Developer & UI/UX Designer from Manila, Philippines 🇵🇭
+### Full-Stack Developer & UI/UX Designer from Manila, Philippines
 
 *Crafting intuitive digital solutions from enterprise applications and AI-powered platforms to marketplaces and SaaS applications*
 
@@ -21,12 +21,20 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td>
+
 Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer passionate about creating websites and digital experiences that are not only functional but also easy and enjoyable to use.
 
-🎓 Working student @ **Phinma St. Jude College** (BS IT, 2023-Present)  
-💼 Self-employed freelancer building web applications  
-🚀 Currently focused on **AI-powered web applications**  
-📍 Manila, Philippines
+**🎓 Education:** Working student @ **Phinma St. Jude College** (BS IT, 2023-Present)  
+**💼 Work:** Self-employed freelancer building web applications  
+**🚀 Focus:** Currently focused on **AI-powered web applications**  
+**📍 Location:** Manila, Philippines
+
+</td>
+</tr>
+</table>
 
 **👉 Check out my full portfolio and case studies at [clark-evacuado.netlify.app](https://clark-evacuado.netlify.app/)**
 
@@ -35,6 +43,10 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,11 +57,17 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</td>
+<td align="center" width="25%">
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</td>
+<td align="center" width="25%">
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,11 +75,22 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+</td>
+<td align="center" width="25%">
+
 ### AI & Automation
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=for-the-badge&logo=workflow&logoColor=white)
 ![Agent Integration](https://img.shields.io/badge/Agent_Integration-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
 
 ### Cloud & Tools
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -73,6 +102,10 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -81,26 +114,41 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
-### Contribution Streak
+<table>
+<tr>
+<td align="center">
 
+### 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://github.com/evacuado)
 
-### Activity Graph
+</td>
+<td align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)](https://github.com/evacuado)
-
-### Stats Overview
-
+### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7)](https://github.com/evacuado)
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+### 💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)](https://github.com/evacuado)
 
-### Profile Trophies
+</td>
+</tr>
+</table>
 
+### 📊 Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)](https://github.com/evacuado)
+
+### 🏆 Profile Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evacuado&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/evacuado)
 
-### Quick Stats
-
+### 📊 Quick Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github)
 ![Total Stars](https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github)
@@ -111,9 +159,28 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 ## 💼 Currently Open For
 
-- 💼 **Freelance Projects** - Web development, AI integration, UI/UX design
-- 🤝 **Collaboration** - Open-source projects, innovative startups
-- 💬 **Consulting** - Technical advice, architecture design
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💼 Freelance Projects
+Web development, AI integration, UI/UX design
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Collaboration
+Open-source projects, innovative startups
+
+</td>
+<td align="center" width="33%">
+
+### 💬 Consulting
+Technical advice, architecture design
+
+</td>
+</tr>
+</table>
 
 ---
 
