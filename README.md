@@ -201,21 +201,21 @@ A 32-bit pixel 2D platformer game inspired by classic games like Mario.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180em" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/api/?username=evacuado&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=evacuado&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/api/?username=evacuado&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" width="49%" />
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="GitHub Activity Graph" width="100%" />
 
 </div>
 
