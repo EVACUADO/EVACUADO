@@ -80,22 +80,23 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 ### 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true)](https://github.com/evacuado)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)](https://github.com/evacuado)
 
 ### 📊 Stats Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7)
+<img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF" alt="Top Languages" />
 
 ### 🏆 Profile Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evacuado&theme=darkhub&no-frame=true&row=2&column=4)](https://github.com/evacuado)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evacuado&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/evacuado)
 
 ### 📊 Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github)
-![Total Stars](https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github)
+<img src="https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github" alt="Total Stars" />
 
 </div>
 
