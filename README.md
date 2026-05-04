@@ -46,7 +46,7 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <table style="border: 2px solid #30363d; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
 <tr>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top;">
+<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
 
 **🎨 Frontend**
 <br><br>
@@ -62,7 +62,7 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top;">
+<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
 
 **⚙️ Backend**
 <br><br>
@@ -71,10 +71,9 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-<br><br><br>
 
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top;">
+<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
 
 **🗄️ Database**
 <br><br>
@@ -83,10 +82,9 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-<br><br><br>
 
 </td>
-<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top;">
+<td align="center" width="20%" style="padding: 15px; border-right: 1px solid #30363d; vertical-align: top; height: 200px;">
 
 **🤖 AI & Automation**
 <br><br>
@@ -95,10 +93,9 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <br>
 ![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=flat-square&logo=workflow&logoColor=white)
 ![AI_Agents](https://img.shields.io/badge/AI_Agents-9B59B6?style=flat-square&logo=robot&logoColor=white)
-<br><br><br>
 
 </td>
-<td align="center" width="20%" style="padding: 15px; vertical-align: top;">
+<td align="center" width="20%" style="padding: 15px; vertical-align: top; height: 200px;">
 
 **☁️ Cloud & DevOps**
 <br><br>
