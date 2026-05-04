@@ -44,64 +44,149 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
+<!-- Frontend Technologies Card -->
 <table>
 <tr>
-<td align="center" width="25%">
+<td>
+<details>
+<summary>
+<h3>🎨 Frontend Development</h3>
+</summary>
+<br>
 
-### Frontend
+<div align="center">
+
+**Core Technologies**
+<br><br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Styling & Build Tools**
+<br><br>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</td>
-<td align="center" width="25%">
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-### AI & Automation
-![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=for-the-badge&logo=workflow&logoColor=white)
-![Agent Integration](https://img.shields.io/badge/Agent_Integration-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
-
+</div>
+</details>
 </td>
 </tr>
 </table>
 
+<!-- Backend Technologies Card -->
 <table>
 <tr>
-<td align="center">
+<td>
+<details>
+<summary>
+<h3>⚙️ Backend Development</h3>
+</summary>
+<br>
 
-### Cloud & Tools
+<div align="center">
+
+**Runtime & Frameworks**
+<br><br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Enterprise Technologies**
+<br><br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+</details>
+</td>
+</tr>
+</table>
+
+<!-- Database Technologies Card -->
+<table>
+<tr>
+<td>
+<details>
+<summary>
+<h3>🗄️ Database & Storage</h3>
+</summary>
+<br>
+
+<div align="center">
+
+**Relational Databases**
+<br><br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**NoSQL & Cloud**
+<br><br>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+</details>
+</td>
+</tr>
+</table>
+
+<!-- AI & Automation Card -->
+<table>
+<tr>
+<td>
+<details>
+<summary>
+<h3>🤖 AI & Automation</h3>
+</summary>
+<br>
+
+<div align="center">
+
+**AI Technologies**
+<br><br>
+![LLM](https://img.shields.io/badge/Large_Language_Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Agent Integration](https://img.shields.io/badge/AI_Agent_Integration-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
+
+**Workflow Automation**
+<br><br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflows](https://img.shields.io/badge/Custom_Workflows-4ECDC4?style=for-the-badge&logo=workflow&logoColor=white)
+
+</div>
+</details>
+</td>
+</tr>
+</table>
+
+<!-- Cloud & DevOps Card -->
+<table>
+<tr>
+<td>
+<details>
+<summary>
+<h3>☁️ Cloud & DevOps</h3>
+</summary>
+<br>
+
+<div align="center">
+
+**Deployment Platforms**
+<br><br>
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+**Development Tools**
+<br><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+</div>
+</details>
 </td>
 </tr>
 </table>
