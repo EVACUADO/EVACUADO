@@ -201,36 +201,30 @@ A 32-bit pixel 2D platformer game inspired by classic games like Mario.
 
 <div align="center">
 
-### 📈 GitHub Stats & 💻 Most Used Languages
+### � Contribution Streak
 
-<a href="https://github.com/evacuado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&langs_count=8&theme=dark"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://github.com/evacuado)
 
-### 🔥 Contribution Streak
+### 📈 Activity Graph
 
-<a href="https://github.com/evacuado">
-  <img src="https://streak-stats.demolab.com/?user=evacuado&theme=dark" alt="GitHub Streak"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=react-dark&hide_border=true&area=true)](https://github.com/evacuado)
 
-### 📊 Contribution Activity
+### 🏆 Profile Stats
 
-<a href="https://github.com/evacuado">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evacuado&theme=github-dark" alt="Contribution Graph"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github)
+![Total Stars](https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github)
 
 </div>
 
----
-
-### 🏆 GitHub Profile Stats
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=flat-square&label=Profile+Views)
-![](https://img.shields.io/github/followers/evacuado?label=Followers&style=flat-square&color=00C7B7)
-![](https://img.shields.io/github/stars/evacuado?label=Total+Stars&style=flat-square&color=00C7B7)
+### 💻 Tech Stack Summary
+
+**Languages:** JavaScript • TypeScript • C# • HTML • CSS  
+**Frameworks:** React • Node.js • .NET Core • Express  
+**Databases:** PostgreSQL • MySQL • MongoDB • Supabase  
+**Tools:** Git • GitHub • Vite • Unity • n8n
 
 </div>
 
