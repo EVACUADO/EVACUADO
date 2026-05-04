@@ -29,7 +29,7 @@ const clark = {
         frontend: ["React.js", "TypeScript", "Tailwind CSS", "Vite"],
         backend: ["Node.js", "Express.js", ".NET Core", "C#"],
         database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
-        ai: ["RAG", "LLM", "OCR", "Prompt Engineering"],
+        ai: ["LLM", "n8n", "Workflows", "Agent Integration"],
         cloud: ["Netlify", "Vercel", "Railway", "Google Cloud"]
     },
     currentlyBuilding: [
@@ -78,9 +78,10 @@ const clark = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge&logo=ai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=for-the-badge&logo=workflow&logoColor=white)
+![Agent Integration](https://img.shields.io/badge/Agent_Integration-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
 
 ### Cloud & Deployment
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
