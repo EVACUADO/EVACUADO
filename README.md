@@ -19,36 +19,22 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const clark = {
-    location: "Manila, Philippines 🇵🇭",
-    education: "BS Information Technology @ Phinma St. Jude College",
-    status: "Freelancer & Working Student",
-    currentFocus: "Building AI-powered web applications",
-    techStack: {
-        frontend: ["React.js", "TypeScript", "Tailwind CSS", "Vite"],
-        backend: ["Node.js", "Express.js", ".NET Core", "C#"],
-        database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
-        ai: ["LLM", "n8n", "Workflows", "Agent Integration"],
-        cloud: ["Netlify", "Vercel", "Railway", "Google Cloud"]
-    },
-    currentlyBuilding: [
-        "AI-powered food waste reduction platform (Kini)",
-        "RAG-based quiz generator (Assessful AI)",
-        "Enterprise management systems"
-    ],
-    openToWork: true
-};
-```
+Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer passionate about creating websites and digital experiences that are not only functional but also easy and enjoyable to use.
 
-### 🎯 What I Do
+Over the years, I've gained experience designing websites and building **business management systems**, **E-commerce platforms**, **Marketplace solutions**, **SaaS applications**, and other web-based systems. I always keep the user experience at the forefront of my work.
 
-- 🚀 Build **full-stack web applications** with modern technologies
-- 🤖 Develop **AI-powered solutions** using RAG, LLM, and OCR
-- 🎨 Design **intuitive UI/UX** for seamless user experiences
-- 🏢 Create **enterprise management systems** (EMS, POS, E-commerce)
-- 💼 Work as a **freelance developer** helping businesses digitalize
-- 📚 Currently studying **BS Information Technology** (2023-Present)
+Right now, I'm balancing my journey as a **working student** at **Phinma St. Jude College** (BS Information Technology, 2023-Present) and a **self-employed freelancer**, using my skills to help businesses bring their online ideas to life. I love taking on new design challenges and am always learning something new to improve my skills.
+
+### 🎯 Quick Facts
+
+- 📍 **Location:** Manila, Philippines
+- 🎓 **Education:** BS Information Technology @ Phinma St. Jude College
+- 💼 **Status:** Freelancer & Working Student
+- 🚀 **Current Focus:** Building AI-powered web applications
+- 💻 **Tech Stack:** React.js, TypeScript, Node.js, .NET Core, C#, Supabase
+- 🤖 **AI & Automation:** LLM, n8n, Workflows, Agent Integration
+- ☁️ **Cloud Platforms:** Netlify, Vercel, Railway, Google Cloud
+- ✅ **Open to Work:** Freelance projects, collaborations, and opportunities
 
 ---
 
