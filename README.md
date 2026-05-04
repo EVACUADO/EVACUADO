@@ -163,7 +163,7 @@ Open-source projects, innovative startups
 </td>
 <td align="center" width="33%">
 
-### � Learning & Growth
+### 📈 Learning & Growth
 Expanding skills, seeking mentorship, continuous improvement
 
 </td>
