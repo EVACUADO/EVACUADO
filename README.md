@@ -84,9 +84,9 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 ### 📊 Stats Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7)](https://github.com/evacuado)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)](https://github.com/evacuado)
 
 ### 🏆 Profile Trophies
 
@@ -94,9 +94,9 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 ### 📊 Quick Stats
 
-<img src="https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github" alt="Total Stars" />
+![Profile Views](https://komarev.com/ghpvc/?username=evacuado&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/evacuado?label=FOLLOWERS&style=for-the-badge&color=00C7B7&logo=github)
+![Total Stars](https://img.shields.io/github/stars/evacuado?label=TOTAL+STARS&style=for-the-badge&color=00C7B7&logo=github)
 
 </div>
 
