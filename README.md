@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi 👋, I'm Clark Gil Evacuado
+# Hi , I'm Clark Gil Evacuado
 
 ### Full-Stack Developer & UI/UX Designer from Manila, Philippines
 
