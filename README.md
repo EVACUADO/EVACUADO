@@ -44,75 +44,59 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 
 <div align="center">
 
-<table>
+<table style="border: 2px solid #30363d; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
 <tr>
-<td align="center" width="20%" style="padding: 20px; border: 1px solid #30363d; border-radius: 8px; margin: 10px;">
+<td align="center" style="padding: 30px;">
 
-**🎨 Frontend**
-<br><br>
+### 💻 **Full-Stack Development Arsenal**
+
+<br>
+
+**🎨 Frontend Technologies**
+<br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<br>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-<td width="2%"></td>
-<td align="center" width="20%" style="padding: 20px; border: 1px solid #30363d; border-radius: 8px; margin: 10px;">
-
-**⚙️ Backend**
 <br><br>
+
+**⚙️ Backend & Server Technologies**
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-<br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-</td>
-<td width="2%"></td>
-<td align="center" width="20%" style="padding: 20px; border: 1px solid #30363d; border-radius: 8px; margin: 10px;">
-
-**🗄️ Database**
 <br><br>
+
+**🗄️ Database & Storage Solutions**
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-</td>
-<td width="2%"></td>
-<td align="center" width="20%" style="padding: 20px; border: 1px solid #30363d; border-radius: 8px; margin: 10px;">
-
-**🤖 AI & Automation**
 <br><br>
+
+**🤖 AI & Automation Tools**
+<br>
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-<br>
 ![Workflows](https://img.shields.io/badge/Workflows-4ECDC4?style=flat-square&logo=workflow&logoColor=white)
 ![AI_Agents](https://img.shields.io/badge/AI_Agents-9B59B6?style=flat-square&logo=robot&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 8px; margin: 10px;">
-
-**☁️ Cloud & DevOps**
 <br><br>
+
+**☁️ Cloud & DevOps Infrastructure**
+<br>
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
