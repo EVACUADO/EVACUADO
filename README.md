@@ -172,18 +172,6 @@ Technical advice, code reviews, best practices
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-clark--evacuado.netlify.app-00C7B7?style=for-the-badge)](https://clark-evacuado.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-cevacuado@gmail.com-D14836?style=for-the-badge)](mailto:cevacuado@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clark_Gil_Evacuado-0077B5?style=for-the-badge)](https://www.linkedin.com/in/clark-gil-alicaya-evacuado-796a41345/)
-[![GitHub](https://img.shields.io/badge/GitHub-@EVACUADO-181717?style=for-the-badge)](https://github.com/EVACUADO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+63_993_198_6424-25D366?style=for-the-badge)](https://wa.me/639931986424)
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
