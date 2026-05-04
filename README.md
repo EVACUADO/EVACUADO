@@ -119,13 +119,13 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <td align="center">
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)](https://github.com/evacuado)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=evacuado&theme=dark&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&count_private=false)](https://github.com/evacuado)
 
 </td>
 <td align="center">
 
 ### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7)](https://github.com/evacuado)
+[![GitHub Stats](https://github-readme-stats-git-master.vercel.app/api?username=evacuado&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&ring_color=00C7B7&count_private=false)](https://github.com/evacuado)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Hey, I'm **Clark Gil A. Evacuado** — a Full-Stack Developer and UI/UX Designer
 <td align="center">
 
 ### 💻 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)](https://github.com/evacuado)
+[![Top Languages](https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=evacuado&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&count_private=false)](https://github.com/evacuado)
 
 </td>
 </tr>
