@@ -163,8 +163,8 @@ Open-source projects, innovative startups
 </td>
 <td align="center" width="33%">
 
-### 💬 Consulting
-Technical advice, code reviews, best practices
+### � Learning & Growth
+Expanding skills, seeking mentorship, continuous improvement
 
 </td>
 </tr>
